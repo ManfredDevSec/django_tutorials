@@ -1,3 +1,3 @@
 # django_tutorials
 
-Soniah django backend
+Soniah django backend tutorials 
